@@ -14,3 +14,8 @@
   
 [spacehey](https://spacehey.com/strifedeliveryservice) ✰ [carrd](https://finalfantasy16.carrd.co/)
 </div>
+
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31grerfiy3ggn7q52babva6auyh4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=203755&interchange=false&bar_color=63b1c5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
