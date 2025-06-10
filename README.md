@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<img src="https://img1.picmix.com/output/stamp/normal/2/5/0/2/2632052_51abd.png" width="150" height="175"/>
+<img src="https://img1.picmix.com/output/stamp/normal/2/5/0/2/2632052_51abd.png" width="150" height="182"/>
 </div>
 
 <div align="center">
