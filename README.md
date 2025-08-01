@@ -12,7 +12,7 @@
 
 <div align="center">
   
-[spacehey](https://spacehey.com/strifedeliveryservice) ✰ [carrd](https://finalfantasy16.carrd.co/)
+[spacehey](https://spacehey.com/strifedeliveryservice) ✰
 </div>
 
 <div align="center">
