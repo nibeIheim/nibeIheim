@@ -7,12 +7,12 @@
 </div>
 
 <div align="center">
-<img src="https://img1.picmix.com/output/stamp/normal/2/5/0/2/2632052_51abd.png" width="150" height="182"/>
+<img src="https://img1.picmix.com/output/stamp/normal/2/5/0/2/2632052_51abd.png" width="150" height="185"/>
 </div>
 
 <div align="center">
   
-[spacehey](https://spacehey.com/strifedeliveryservice) ✰
+[spacehey](https://spacehey.com/strifedeliveryservice) ✰ [carrd](https://finalfantasy16.carrd.co)
 </div>
 
 <div align="center">
