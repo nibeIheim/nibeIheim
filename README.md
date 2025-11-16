@@ -12,6 +12,6 @@
 
 <div align="center">
   
-[spacehey](https://spacehey.com/strifedeliveryservice) ✰ [carrd](https://finalfantasy16.carrd.co)  ✰ [discord](https://guns.lol/wallmaria)
+[spacehey](https://spacehey.com/strifedeliveryservice) ✰ [carrd](https://finalfantasy16.carrd.co)  ✰ [discord](https://guns.lol/feltons)
 </div>
 
