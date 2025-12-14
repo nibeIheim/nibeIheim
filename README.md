@@ -23,7 +23,3 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Detroit-become-human-logo.png" width="95" height="90"/> <img src="https://imgeucdn.gamespress.com/cdn/files/Square-Enix-Europe/2022/06/281416-8d53db66/NIERA_EOY_LOGO1.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=78c274b2d0e562366fc580bd4b2ed7695f013ad8e90a4269c408d58187c3751c" width="105" height="95"/>
 </div>
 
-
-<div align="center">
-<img src="https://media.tenor.com/_Z9Mq2Ct-2sAAAAj/hollow-knight-waking-up.gif" width="97" height="93"/>
-</div>
